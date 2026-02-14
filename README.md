@@ -45,7 +45,7 @@ This dashboard helps stakeholders:
 - Make strategic business decisions using data insights  
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard](Screenshot%202025-11-03%20225212.png)
 
 ## Author
 **Vyshnavi Garapati**  
